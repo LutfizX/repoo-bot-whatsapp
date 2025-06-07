@@ -1,0 +1,22 @@
+{
+  "name": "whatsapp-pairing-bot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp dengan pairing code dan menu list sederhana menggunakan Baileys v5",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys",
+    "pairing"
+  ],
+  "author": "LutfizX",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^5.0.0",
+    "pino": "^8.0.0"
+  }
+}
